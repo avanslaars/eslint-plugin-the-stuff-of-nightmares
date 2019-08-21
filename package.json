@@ -1,0 +1,14 @@
+{
+  "name": "eslint-plugin-the-stuff-of-nightmares",
+  "version": "0.1.0",
+  "description": "terrible eslint rules to make your dev life a living nightmare",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.com/"
+  }
+}
